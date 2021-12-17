@@ -1,2 +1,2 @@
 # Scuffed-GTNH-Dark
-GTNH dark theme
+GT New Horizons: Dark theme for 2.1.2.0
