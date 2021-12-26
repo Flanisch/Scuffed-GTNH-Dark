@@ -8,7 +8,7 @@ GT New Horizons: Dark theme for 2.1.2.0
 |----------------|--------------------|----------|
 | Minecraft      | 22/22              | 100%      |
 | NotEnoughItems | 5/5                | 100%     |
-| Gregtech       | 31/145             | 21%      |
+| Gregtech       | 43/145             | 29%      |
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
