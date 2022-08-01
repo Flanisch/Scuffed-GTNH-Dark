@@ -8,8 +8,8 @@ gui.tooltips.appliedenergistics2.TerminalStyle_Tall=Tall Centered Terminal
 gui.tooltips.appliedenergistics2.TerminalStyle_Small=Small Centered Terminal
 
 # Colours
-gui.appliedenergistics2.Gray=Grey
-gui.appliedenergistics2.LightGray=Light Grey
+gui.appliedenergistics2.Gray=Light Grey
+gui.appliedenergistics2.LightGray=White
 
 # Items
 item.appliedenergistics2.ToolColorApplicator.name=Colour Applicator
