@@ -1,7 +1,5 @@
 # Scuffed-GTNH-Dark
-GT New Horizons: Dark theme for 2.2.8
-
-./designHelp/Gregtech.lang needs to be moved to the root of the modpack. It colors the gui-text appropriately.
+GT New Horizons: Dark theme for 2.5.1
 
 ## Texturing progress
 | Mod                     | Number of textures | Progress |
