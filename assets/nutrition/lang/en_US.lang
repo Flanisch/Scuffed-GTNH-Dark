@@ -1,0 +1,22 @@
+# Keys
+key.nutrition=Open Nutrition GUI
+
+# GUI
+gui.nutrition:nutrition_title=§7Nutrition
+gui.nutrition:close=§7Close
+gui.nutrition:updating=§7Updating...
+
+# Nutrients
+nutrient.nutrition:grain=§7Grain
+nutrient.nutrition:fruit=§7Fruit
+nutrient.nutrition:vegetable=§7Vegetable
+nutrient.nutrition:protein=§7Protein
+nutrient.nutrition:dairy=§7Dairy
+
+# Tooltips
+tooltip.nutrition:nutrients=Nutrients:
+
+# Potions
+potion.nutrition:toughness=Toughness
+potion.nutrition:nourished=Nourished
+potion.nutrition:malnourished=Malnourished

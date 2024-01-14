@@ -9,6 +9,7 @@ GT New Horizons: Dark theme for 2.5.1
 | Gregtech                | 157/??             | 95%      |
 | Applied Energistics 2   | 38/38              | 100%     |
 | ModularUI				  | 24/24			   | 100%     |
+| Nutrition				  | 1/1 			   | 100%	  |
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
