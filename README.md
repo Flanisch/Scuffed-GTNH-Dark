@@ -12,7 +12,8 @@ GT New Horizons: Dark theme for 2.5.1
 | Nutrition				  | 1/1 			   | 100%	  |													|
 | GT NEI Ore Plugin		  | 1/1 			   | 100%	  |													|
 | NEI Custom Diagram	  | 1/1 			   | 100%	  |													|
-| Tinker's Construct	  | 22/23 			   | 97%	  |	Custom extra heart textures left (nice to have) |
+| Tinker's Construct	  | 23/23 			   | 100%	  |													|
+| Forestry				  | 12/38 			   | 32%	  |													|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
