@@ -13,7 +13,7 @@ GT New Horizons: Dark theme for 2.5.1
 | GT NEI Ore Plugin		  | 1/1 			   | 100%	  |													|
 | NEI Custom Diagram	  | 1/1 			   | 100%	  |													|
 | Tinker's Construct	  | 23/23 			   | 100%	  |													|
-| Forestry				  | 12/38 			   | 32%	  |													|
+| Forestry				  | 27/38 			   | 71%	  |													|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
