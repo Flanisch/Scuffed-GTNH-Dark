@@ -1,0 +1,24 @@
+tcneiadditions.aspect_from_itemstack.title=Aspect from ItemStack
+tcneiadditions.aspect_from_itemstack.still_load=Still loading... (%s/%s)
+tcneiadditions.aspect_combination.title=Aspect Combination
+
+tcneiadditions.research.missing=You haven't completed research required to craft this item
+tcneiadditions.research.researchName=Research name
+tcneiadditions.research.researchName_rod=Rod Research name
+tcneiadditions.research.researchName_cap=Cap Research name
+tcneiadditions.research.prerequisites.parents=Parent research
+tcneiadditions.research.prerequisites.parentsHidden=Parent hidden research
+tcneiadditions.research.prerequisites.item=Scan item
+tcneiadditions.research.prerequisites.entity=Scan entity
+tcneiadditions.research.prerequisites.aspect=Scan aspect
+tcneiadditions.research.prerequisites.kill=Kill and Scan
+tcneiadditions.research.prerequisites.allresearched=You have done all the required research
+
+
+tcneiadditions.config.general=General
+
+tcneiadditions.config.general.showLockedRecipes=Show locked recipes
+tcneiadditions.config.general.showLockedRecipes.tooltip=Show recipes even if the research is not completed
+tcneiadditions.config.general.showInstabilityNumber=Show number of instability
+tcneiadditions.config.general.showInstabilityNumber.tooltip=Show the number of instability of infusion
+tcneiadditions.config.general.showResearchKey=Show research key
