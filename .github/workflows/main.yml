@@ -2,7 +2,7 @@ name: Create Zip Release
 on: push
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: checkout code
         uses: actions/checkout@master
@@ -11,4 +11,4 @@ jobs:
         with:
           type: 'zip'
           filename: 'release.zip'
-          exclusions: '*.git* *designHelp* *.psd'
+          exclusions: '*.git* /*designHelp/* *.psd'
