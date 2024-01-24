@@ -31,10 +31,9 @@ GT New Horizons: Dark theme for 2.5.1
 | Chisel				  | 0/8 			   | 0%	  	  |				|
 | IronChest				  | 0/6 			   | 0%	  	  |				|
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
-| NEIIntegration		  | 0/9 			   | 0%	  	  |				|
 | TCNEIAdditions		  | 0/1 			   | 0%	  	  |				|
 | Thaumcraft 4		  	  | 0/15 			   | 0%	  	  |				|
-| Overall				  | 402/519 		   | 0%	  	  |				|
+| Overall				  | 426/509 		   | 83%  	  |				|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
