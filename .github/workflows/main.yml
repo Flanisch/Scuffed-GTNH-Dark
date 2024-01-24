@@ -45,3 +45,5 @@ jobs:
         with:
           artifacts: "Scuffed-GTNH-Dark ${{ github.ref_name }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
+          allowUpdates: true
+          removeArtifacts: true
