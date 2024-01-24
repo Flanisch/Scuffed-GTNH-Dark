@@ -41,6 +41,7 @@ jobs:
             /*assets/tcneiadditions/*
             /*assets/thaumcraft/*
       - name: Generate Changelog
+        id: changelog
         uses: requarks/changelog-action@v1.10.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
