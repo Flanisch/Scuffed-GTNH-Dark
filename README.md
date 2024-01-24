@@ -14,7 +14,7 @@ GT New Horizons: Dark theme for 2.5.1
 | NEI Custom Diagram	  | 1/1 			   | 100%	  |				|
 | Tinker's Construct	  | 23/23 			   | 100%	  |				|
 | Forestry				  | 38/38 			   | 100%	  |				|
-| AE2FluidCrafting		  | 0/19 			   | 0%	  	  |				|
+| AE2FluidCrafting		  | 19/19 			   | 0%	  	  |				|
 | AE2Stuff		  		  | 0/2 			   | 0%	  	  |				|
 | Blood Magic		  	  | 0/8 			   | 0%	  	  |				|
 | ArchitectureCraft		  | 0/4 			   | 0%	  	  |				|
