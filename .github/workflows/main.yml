@@ -11,5 +11,5 @@ jobs:
         with:
           type: 'zip'
           filename: 'release.zip'
-          exclusions: '*.git* ./designHelp'
+          exclusions: '*.git* designHelp/*'
           recursive_exclusions: '*.psd */psd*'
