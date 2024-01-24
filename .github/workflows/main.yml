@@ -1,5 +1,8 @@
-name: Create Zip Release
-on: push
+name: Create Zip Release On Tag Push
+on:
+  push:
+    tags:
+    - '*'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +13,7 @@ jobs:
         uses: thedoctor0/zip-release@0.7.5
         with:
           type: 'zip'
-          filename: 'release.zip'
+          filename: 'Scuffed-GTNH-Dark ${{ github.ref }}.zip'
           exclusions: >
             *.git*
             *.psd
@@ -40,6 +43,5 @@ jobs:
       - name: Upload Release
         uses: ncipollo/release-action@v1.12.0
         with:
-          artifacts: "release.zip"
+          artifacts: "Scuffed-GTNH-Dark ${{ github.ref }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit: "release-testing"
