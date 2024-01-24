@@ -14,8 +14,9 @@ GT New Horizons: Dark theme for 2.5.1
 | NEI Custom Diagram	  | 1/1 			   | 100%	  |				|
 | Tinker's Construct	  | 23/23 			   | 100%	  |				|
 | Forestry				  | 38/38 			   | 100%	  |				|
-| AE2FluidCrafting		  | 19/19 			   | 0%	  	  |				|
-| AE2Stuff		  		  | 0/2 			   | 0%	  	  |				|
+| AE2FluidCrafting		  | 19/19 			   | 100% 	  |				|
+| AE2Stuff		  		  | 2/2 			   | 100%	  |				|
+| NEIAddons				  | 3/3 			   | 100%	  |				|
 | Blood Magic		  	  | 0/8 			   | 0%	  	  |				|
 | ArchitectureCraft		  | 0/4 			   | 0%	  	  |				|
 | Avaritia				  | 0/5 			   | 0%	  	  |				|
@@ -30,7 +31,6 @@ GT New Horizons: Dark theme for 2.5.1
 | Chisel				  | 0/8 			   | 0%	  	  |				|
 | IronChest				  | 0/6 			   | 0%	  	  |				|
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
-| NEIAddons				  | 0/4 			   | 0%	  	  |				|
 | NEIIntegration		  | 0/9 			   | 0%	  	  |				|
 | TCNEIAdditions		  | 0/1 			   | 0%	  	  |				|
 | Thaumcraft 4		  	  | 0/15 			   | 0%	  	  |				|

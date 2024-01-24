@@ -20,7 +20,6 @@ jobs:
             /*designHelp/*
             /*psd/*
             /*assets/adventurebackpack/*
-            /*assets/ae2stuff/*
             /*assets/alchemicalwizardry/*
             /*assets/architecturecraft/*
             /*assets/avaritia/*
@@ -35,7 +34,6 @@ jobs:
             /*assets/chisel/*
             /*assets/ironchest/*
             /*assets/mobsinfo/*
-            /*assets/neiaddons/*
             /*assets/neiintegration/*
             /*assets/tcneiadditions/*
             /*assets/thaumcraft/*
