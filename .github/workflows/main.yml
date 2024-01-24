@@ -1,0 +1,59 @@
+name: Create Zip Release On Tag Push
+on:
+  push:
+    tags:
+    - v[0-9]+.[0-9]+.[0-9]+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@master
+      - name: Archive Release
+        uses: thedoctor0/zip-release@0.7.5
+        with:
+          type: 'zip'
+          filename: 'Scuffed-GTNH-Dark-${{ github.ref_name }}.zip'
+          exclusions: >
+            *.git*
+            *.psd
+            /*designHelp/*
+            /*psd/*
+            /*assets/adventurebackpack/*
+            /*assets/ae2fc/*
+            /*assets/ae2stuff/*
+            /*assets/alchemicalwizardry/*
+            /*assets/architecturecraft/*
+            /*assets/avaritia/*
+            /*assets/avaritiaddons/*
+            /*assets/backpack/*
+            /*assets/battlegear2/*
+            /*assets/baubles/*
+            /*assets/beebetteratbees/*
+            /*assets/betterp2p/*
+            /*assets/botania/*
+            /*assets/bq_standard/*
+            /*assets/chisel/*
+            /*assets/ironchest/*
+            /*assets/mobsinfo/*
+            /*assets/neiaddons/*
+            /*assets/neiintegration/*
+            /*assets/tcneiadditions/*
+            /*assets/thaumcraft/*
+      - name: Generate Changelog
+        id: changelog
+        uses: requarks/changelog-action@v1.10.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ github.ref_name }}
+          includeInvalidCommits: true
+          reverseOrder: true
+          excludeTypes: ''
+      - name: Create Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "Scuffed-GTNH-Dark-${{ github.ref_name }}.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          body: ${{ steps.changelog.outputs.changes }}
+          allowUpdates: true
+          removeArtifacts: true
