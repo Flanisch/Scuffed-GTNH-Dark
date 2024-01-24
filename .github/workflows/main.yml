@@ -45,6 +45,8 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.ref_name }}
+          includeInvalidCommits: true
+          reverseOrder: true
       - name: Create Release
         uses: ncipollo/release-action@v1.12.0
         with:
