@@ -11,4 +11,4 @@ jobs:
         with:
           type: 'zip'
           filename: 'release.zip'
-          exclusions: '*.git* /*designHelp/* *.psd /*psd/*'
+          exclusions: '*.git* /*designHelp/* /*psd/* *.psd /assets/adventurebackpack'
