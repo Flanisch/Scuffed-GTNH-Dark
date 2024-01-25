@@ -21,19 +21,19 @@ GT New Horizons: Dark theme for 2.5.1
 | ArchitectureCraft		  | 0/4 			   | 0%	  	  |				|
 | Avaritia				  | 0/5 			   | 0%	  	  |				|
 | AvaritiaAddons		  | 0/2 			   | 0%	  	  |				|
-| Backpack		  		  | 0/1 			   | 0%	  	  |				|
+| Backpack		  		  | 1/1 			   | 100% 	  |				|
 | BattleGear 2		      | 0/12 			   | 0%	  	  |				|
 | Baubles				  | 0/1 			   | 0%	  	  |				|
-| BeeBetterAtBees		  | 0/1 			   | 0%	  	  |				|
+| BeeBetterAtBees		  | 1/1 			   | 100%	  |				|
 | BetterP2P		  		  | 0/1 			   | 0%	  	  |				|
 | Botania		  		  | 4/5 			   | 80%	  |				|
-| BetterQuesting		  | 0/2 			   | 0%	  	  |				|
+| BetterQuesting		  | 1/1 			   | 100%	  |				|
 | Chisel				  | 0/8 			   | 0%	  	  |				|
 | IronChest				  | 0/6 			   | 0%	  	  |				|
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
 | TCNEIAdditions		  | 1/1 			   | 100%	  |				|
 | Thaumcraft 4		  	  | 15/15 			   | 100%	  |				|
-| Overall				  | 452/500 		   | 91%  	  |				|
+| Overall				  | 455/499 		   | 91%  	  |				|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
