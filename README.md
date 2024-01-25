@@ -26,14 +26,14 @@ GT New Horizons: Dark theme for 2.5.1
 | Baubles				  | 0/1 			   | 0%	  	  |				|
 | BeeBetterAtBees		  | 0/1 			   | 0%	  	  |				|
 | BetterP2P		  		  | 0/1 			   | 0%	  	  |				|
-| Botania		  		  | 0/14 			   | 0%	  	  |				|
+| Botania		  		  | 4/5 			   | 80%	  |				|
 | BetterQuesting		  | 0/2 			   | 0%	  	  |				|
 | Chisel				  | 0/8 			   | 0%	  	  |				|
 | IronChest				  | 0/6 			   | 0%	  	  |				|
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
-| TCNEIAdditions		  | 0/1 			   | 0%	  	  |				|
-| Thaumcraft 4		  	  | 0/15 			   | 0%	  	  |				|
-| Overall				  | 426/508 		   | 83%  	  |				|
+| TCNEIAdditions		  | 1/1 			   | 100%	  |				|
+| Thaumcraft 4		  	  | 15/15 			   | 100%	  |				|
+| Overall				  | 452/500 		   | 91%  	  |				|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
