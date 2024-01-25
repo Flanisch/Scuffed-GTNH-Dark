@@ -17,7 +17,7 @@ GT New Horizons: Dark theme for 2.5.1
 | AE2FluidCrafting		  | 19/19 			   | 100% 	  |				|
 | AE2Stuff		  		  | 2/2 			   | 100%	  |				|
 | NEIAddons				  | 3/3 			   | 100%	  |				|
-| Blood Magic		  	  | 0/8 			   | 0%	  	  |				|
+| Blood Magic		  	  | 7/7 			   | 100%	  |				|
 | ArchitectureCraft		  | 0/4 			   | 0%	  	  |				|
 | Avaritia				  | 0/5 			   | 0%	  	  |				|
 | AvaritiaAddons		  | 0/2 			   | 0%	  	  |				|
@@ -33,7 +33,7 @@ GT New Horizons: Dark theme for 2.5.1
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
 | TCNEIAdditions		  | 0/1 			   | 0%	  	  |				|
 | Thaumcraft 4		  	  | 0/15 			   | 0%	  	  |				|
-| Overall				  | 426/509 		   | 83%  	  |				|
+| Overall				  | 426/508 		   | 83%  	  |				|
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)

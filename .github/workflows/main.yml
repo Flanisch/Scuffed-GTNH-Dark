@@ -33,7 +33,6 @@ jobs:
             /*assets/chisel/*
             /*assets/ironchest/*
             /*assets/mobsinfo/*
-            /*assets/thaumcraft/*
       - name: Generate Changelog
         id: changelog
         uses: requarks/changelog-action@v1.10.0
