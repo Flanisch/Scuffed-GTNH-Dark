@@ -19,19 +19,13 @@ jobs:
             *.psd
             /*designHelp/*
             /*psd/*
-            /*assets/adventurebackpack/*
             /*assets/architecturecraft/*
             /*assets/avaritia/*
             /*assets/avaritiaddons/*
-            /*assets/backpack/*
             /*assets/battlegear2/*
             /*assets/baubles/*
-            /*assets/beebetteratbees/*
             /*assets/betterp2p/*
-            /*assets/botania/*
-            /*assets/bq_standard/*
             /*assets/chisel/*
-            /*assets/ironchest/*
             /*assets/mobsinfo/*
       - name: Generate Changelog
         id: changelog
