@@ -2,6 +2,9 @@
 GT New Horizons: Dark theme for 2.5.1
 
 ## Texturing progress
+<details>
+<summary>Alpha Roadmap</summary>
+  
 | Mod                     | Number of textures | Progress | Notes 		|
 |-------------------------|--------------------|----------|-------------|
 | Minecraft               | 22/22              | 100%     |				|
@@ -36,6 +39,7 @@ GT New Horizons: Dark theme for 2.5.1
 | structurelib			  | 1/1 			   | 100%	  |				|
 | AdventureBackpack		  | 3/3 			   | 100%	  |				|
 | Overall				  | 467/502 		   | 93%  	  |				|
+</details>
 
 ## Known issues
 - Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
