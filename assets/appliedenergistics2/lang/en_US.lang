@@ -1,3 +1,6 @@
+# GUI Text - Needed for other mods, that hardcode color
+gui.appliedenergistics2.Terminal=§7Terminal
+
 # Colors
 gui.appliedenergistics2.White=White
 gui.appliedenergistics2.Orange=Orange
