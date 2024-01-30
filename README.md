@@ -32,13 +32,14 @@ GT New Horizons: Dark theme for 2.5.1
 | Botania		  		  | 4/5 			   | 80%	  |				|
 | BetterQuesting		  | 1/1 			   | 100%	  |				|
 | Chisel				  | 0/8 			   | 0%	  	  |				|
-| IronChest				  | 6/6 			   | 0%	  	  |				|
+| IronChest				  | 6/6 			   | 100%	  |				|
 | MobsInfo				  | 0/2 			   | 0%	  	  |				|
 | TCNEIAdditions		  | 1/1 			   | 100%	  |				|
 | Thaumcraft 4		  	  | 15/15 			   | 100%	  |				|
 | structurelib			  | 1/1 			   | 100%	  |				|
 | AdventureBackpack		  | 3/3 			   | 100%	  |				|
-| Overall				  | 467/502 		   | 93%  	  |				|
+| AE2 Wireless ME Terminal| 3/3 			   | 100%	  |				|
+| Overall				  | 469/505 		   | 93%  	  |				|
 </details>
 
 ## Known issues
