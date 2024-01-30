@@ -1,0 +1,40 @@
+#Items
+item.wirelessCraftingTerminal.name=§7Wireless Crafting Terminal
+item.magnetCard.name=§7Magnet Card
+itemGroup.ae2wct=§9AE2 Wireless Crafting Terminal
+
+#Tooltips
+gui.tooltips.ae2wct.PressShift=§7Hold Shift for Info
+gui.tooltips.ae2wct.OnlyWorks=§7Only works when in Wireless Crafting Terminal slot!
+gui.tooltips.ae2wct.TitleDesc=§7Description
+gui.tooltips.ae2wct.InfinityBoosterDesc=§7Allows a linked AE2 Wireless Crafting Terminal to be used at any distance and across dimensions.
+gui.tooltips.ae2wct.MagnetDesc=§7A magnet that automagically inserts items into the AE network.
+gui.tooltips.ae2wct.MagnetDesc2=§7Right-click to set filter
+gui.tooltips.ae2wct.LinkStatus=§7Link Status
+gui.tooltips.ae2wct.Installed=§7Installed
+gui.tooltips.ae2wct.NotInstalled=§7Not Installed
+gui.tooltips.ae2wct.Active=§7Active
+gui.tooltips.ae2wct.Inactive=§7Inactive
+gui.tooltips.ae2wct.Status=§7Status
+gui.tooltips.ae2wct.EmptyTrash=§7Empty Trash
+gui.tooltips.ae2wct.EmptyTrashDesc=§7Delete contents of the Trash slot
+gui.tooltips.ae2wct.MagnetFilterTitle=§7Magnet Filter
+gui.tooltips.ae2wct.FilterMode=§7Filter Mode
+gui.tooltips.ae2wct.Whitelisting=§7Whitelisting
+gui.tooltips.ae2wct.Blacklisting=§7Blacklisting
+gui.tooltips.ae2wct.MagnetActiveDesc1=§7Extra items added to inventory
+gui.tooltips.ae2wct.MagnetActiveDesc2=§7Extra items left on ground
+gui.tooltips.ae2wct.Not=§7Not
+gui.tooltips.ae2wct.Using=§7Using
+gui.tooltips.ae2wct.Ignore=§7Ignore
+gui.tooltips.ae2wct.Ignoring=§7Ignoring
+gui.tooltips.ae2wct.NBTData=§7NBT Data
+gui.tooltips.ae2wct.MetaData=§7Meta Data
+gui.tooltips.ae2wct.OreDict=§7Ore Dictionary
+gui.tooltips.ae2wct.FilteredItems=§7Filtered Items
+gui.tooltips.ae2wct.OrPress=§7or press
+gui.tooltips.ae2wct.Press=§7Press
+gui.tooltips.ae2wct.ToSwitchMode=§7to switch magnet mode
+
+#Labels
+gui.labels.ae2wct.WirelessTermLabel=§7Wireless Term
