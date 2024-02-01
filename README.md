@@ -1,7 +1,7 @@
 # Scuffed-GTNH-Dark
 GT New Horizons: Dark theme for 2.5.1
 
-Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential. 
+Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential ones. 
 
 Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
 
@@ -56,6 +56,8 @@ Make sure the load order in Minecraft is as follows:
 | AE2 Wireless ME Terminal| 3/3 			   | 100%	  |				|
 | Overall				  | 490/490 		   | 100%  	  |				|
 </details>
+
+Beta Roadmap: TBD
 
 ## Credits
 This resource pack uses and adapts some bits and pieces of works from the following projects:
