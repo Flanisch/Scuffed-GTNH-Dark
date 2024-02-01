@@ -3,7 +3,7 @@
 License
 ------
 
-[Unity by CyanideX is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Scuffed-GTNH-Dark by Flanisch, also known as Albi, is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Details
 ------
