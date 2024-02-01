@@ -59,7 +59,9 @@ Make sure the load order in Minecraft is as follows:
 
 Beta Roadmap: TBD
 
-## Credits
+# Credits
+A big thank you to [TrappedCourage](https://github.com/TrappedCourage) for their contributions.
+
 This resource pack uses and adapts some bits and pieces of works from the following projects:
 - [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10) by [CyanideX](https://github.com/CyanideX)
 - [Zedarrian-Technology-GT5U](https://github.com/MCTian-mi/Zederrian-Technology-GT5U) by [Zerrens](https://forum.industrial-craft.net/core/user/12229-zerrens/) and [MCTian-mi](https://github.com/MCTian-mi)
