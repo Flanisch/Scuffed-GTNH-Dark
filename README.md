@@ -1,5 +1,18 @@
 # Scuffed-GTNH-Dark
 GT New Horizons: Dark theme for 2.5.1
+Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential. Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
+
+## Recommended Resource Packs
+This UI Resource Pack is developed by keeping compatibility with Unity and Zedarrian Technology in mind, which is why using the following resource packs is recommended:
+- [Unity](https://github.com/Unity-Resource-Pack/Unity/tree/1.7.10)
+- [Zedarrian-Technology-GT5U](https://github.com/MCTian-mi/Zederrian-Technology-GT5U)
+- [Unity IC2-Backport](https://www.curseforge.com/minecraft/texture-packs/unity-ic2-1-7-10-backport/files/2377036)
+
+Make sure the load order in Minecraft is as follows:
+1. Scuffed-GTNH-Dark
+2. Zedarrian-Technology-GT5U
+3. Unity IC2-Backport
+4. Unity
 
 ## Texturing progress
 <details>
@@ -22,13 +35,12 @@ GT New Horizons: Dark theme for 2.5.1
 | NEIAddons				  | 3/3 			   | 100%	  |				|
 | Blood Magic		  	  | 7/7 			   | 100%	  |				|
 | ArchitectureCraft		  | 1/1 			   | 100%	  |				|
-| Avaritia				  | 0/5 			   | 0%	  	  |				|
-| AvaritiaAddons		  | 0/2 			   | 0%	  	  |				|
+| Avaritia				  | 4/4 			   | 100%	  |				|
+| AvaritiaAddons		  | 2/2 			   | 100%	  |				|
 | Backpack		  		  | 1/1 			   | 100% 	  |				|
 | BattleGear 2		      | 2/2 			   | 100%	  |	There are an additional 10 textures, but they are super rarely used. Not a priority atm.|
 | Baubles				  | 1/1 			   | 100%	  |				|
 | BeeBetterAtBees		  | 1/1 			   | 100%	  |				|
-| BetterP2P		  		  | 0/1 			   | 0%	  	  |				|
 | Botania		  		  | 5/5 			   | 100%	  |				|
 | BetterQuesting		  | 1/1 			   | 100%	  |				|
 | Chisel				  | 8/8 			   | 100%	  |				|
@@ -39,11 +51,8 @@ GT New Horizons: Dark theme for 2.5.1
 | structurelib			  | 1/1 			   | 100%	  |				|
 | AdventureBackpack		  | 3/3 			   | 100%	  |				|
 | AE2 Wireless ME Terminal| 3/3 			   | 100%	  |				|
-| Overall				  | 483/492 		   | 96%  	  |				|
+| Overall				  | 490/490 		   | 100%  	  |				|
 </details>
-
-## Known issues
-- Beacon UI seems to have graphical bugs even on vanilla texture (probably an Optifine issue)
 
 ## Credits
 This resource pack uses and adapts some bits and pieces of works from the following projects:

@@ -19,7 +19,6 @@ jobs:
             *.psd
             /*designHelp/*
             /*psd/*
-            /*assets/avaritia/*
             /*assets/betterp2p/*
       - name: Generate Changelog
         id: changelog
