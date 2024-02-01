@@ -1,7 +1,7 @@
 {
   "colors": {
     "guiTint": {
-      "enableGUITint": true,
+      "enableGUITint": false,
       "Black":      "909090",
       "Red":        "FFCCCC",
       "Green":      "C3FCB4",
@@ -21,13 +21,13 @@
       "Machine Metal": "FFFFFF"
     },
     "textColor": {
-      "title": "DDDDDD",
+      "title": "FFFFFF",
       "title_white": "FFFFFF",
-      "text_gray": "ADADAD",
+      "text_gray": "DDDDDD",
       "text_red": "FF6464",
       "text_white": "FFFFFF",
-      "nei": "ADADAD",
-      "nei_overlay": "ADADAD"
+      "nei": "FFFFFF",
+      "nei_overlay": "FFFFFF"
     }
   }
 }

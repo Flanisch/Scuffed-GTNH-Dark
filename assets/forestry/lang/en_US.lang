@@ -1,46 +1,46 @@
 
-for.gui.beealyzer=§7Beealyzer
+for.gui.beealyzer=§fBeealyzer
 
 for.gui.mail.nametrader=§fName your trade station
 for.gui.mail.to=§fTo
 for.gui.mail.receive=§fReceive
 for.gui.mail.send=§fSend
-for.gui.page=§7Page
+for.gui.page=§fPage
 
-tile.for.core.0.name=§7Analyzer
+tile.for.core.0.name=§fAnalyzer
 tile.for.core.1.name=Escritoire
 
-tile.for.engine.0.name=§7Electrical Engine
-tile.for.engine.1.name=§7Peat-fired Engine
-tile.for.engine.2.name=§7Biogas Engine
-tile.for.engine.3.name=§7Bio Generator
-tile.for.engine.4.name=§7Clockwork Engine
+tile.for.engine.0.name=§fElectrical Engine
+tile.for.engine.1.name=§fPeat-fired Engine
+tile.for.engine.2.name=§fBiogas Engine
+tile.for.engine.3.name=§fBio Generator
+tile.for.engine.4.name=§fClockwork Engine
 
-tile.for.factory.0.name=§7Bottler
-tile.for.factory.1.name=§7Carpenter
-tile.for.factory.2.name=§7Centrifuge
-tile.for.factory.3.name=§7Fermenter
-tile.for.factory.4.name=§7Moistener
-tile.for.factory.5.name=§7Squeezer
-tile.for.factory.6.name=§7Still
-tile.for.factory.7.name=§7Rainmaker
-tile.for.factory2.0.name=§7Thermionic Fabricator
-tile.for.factory2.1.name=§7Raintank
-tile.for.factory2.2.name=§7Worktable
+tile.for.factory.0.name=§fBottler
+tile.for.factory.1.name=§fCarpenter
+tile.for.factory.2.name=§fCentrifuge
+tile.for.factory.3.name=§fFermenter
+tile.for.factory.4.name=§fMoistener
+tile.for.factory.5.name=§fSqueezer
+tile.for.factory.6.name=§fStill
+tile.for.factory.7.name=§fRainmaker
+tile.for.factory2.0.name=§fThermionic Fabricator
+tile.for.factory2.1.name=§fRaintank
+tile.for.factory2.2.name=§fWorktable
 
 tile.for.mail.1.name=§fTrade Station
 
-tile.for.alveary.0.name=§7Alveary
-tile.for.alveary.1.name=§7Alveary Entrance
-tile.for.alveary.2.name=§7Swarmer
-tile.for.alveary.3.name=§7Alveary Fan
-tile.for.alveary.4.name=§7Alveary Heater
-tile.for.alveary.5.name=§7Alveary Hygroregulator
-tile.for.alveary.6.name=§7Alveary Stabiliser
-tile.for.alveary.7.name=§7Alveary Sieve
+tile.for.alveary.0.name=§fAlveary
+tile.for.alveary.1.name=§fAlveary Entrance
+tile.for.alveary.2.name=§fSwarmer
+tile.for.alveary.3.name=§fAlveary Fan
+tile.for.alveary.4.name=§fAlveary Heater
+tile.for.alveary.5.name=§fAlveary Hygroregulator
+tile.for.alveary.6.name=§fAlveary Stabiliser
+tile.for.alveary.7.name=§fAlveary Sieve
 
-tile.for.apiculture.0.name=§7Apiary
-tile.for.apicultureChest.0.name=§7Apiarist's Chest
-tile.for.apiculture.2.name=§7Bee House
+tile.for.apiculture.0.name=§fApiary
+tile.for.apicultureChest.0.name=§fApiarist's Chest
+tile.for.apiculture.2.name=§fBee House
 
-for.gui.farm.title=§7Farm
+for.gui.farm.title=§fFarm

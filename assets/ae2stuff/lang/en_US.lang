@@ -1,10 +1,10 @@
-tile.ae2stuff.Encoder.name=§7Pattern Encoder
-tile.ae2stuff.Grower.name=§7Crystal Growth Chamber
-tile.ae2stuff.Inscriber.name=§7Advanced Inscriber
-tile.ae2stuff.Wireless.name=§7Wireless Connector
+tile.ae2stuff.Encoder.name=§fPattern Encoder
+tile.ae2stuff.Grower.name=§fCrystal Growth Chamber
+tile.ae2stuff.Inscriber.name=§fAdvanced Inscriber
+tile.ae2stuff.Wireless.name=§fWireless Connector
 
-ae2stuff.gui.lock.on=§7Locked - Can't be removed with automation
-ae2stuff.gui.lock.off=§7Unlocked - Can be removed with automation
-ae2stuff.gui.lock.note=§7If no process is ongoing and middle slot is empty
+ae2stuff.gui.lock.on=§fLocked - Can't be removed with automation
+ae2stuff.gui.lock.off=§fUnlocked - Can be removed with automation
+ae2stuff.gui.lock.note=§fIf no process is ongoing and middle slot is empty
 
-ae2stuff.gui.recipes=§7Recipes
+ae2stuff.gui.recipes=§fRecipes

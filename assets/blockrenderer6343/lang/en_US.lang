@@ -1,7 +1,7 @@
 gui.blockrenderer6343.Tier=Tier
 gui.blockrenderer6343.Layer=Layer
-gui.blockrenderer6343.FontColor=DDDDDD
+gui.blockrenderer6343.FontColor=FFFFFF
 gui.blockrenderer6343.BgColor=182025
 gui.blockrenderer6343.ButtonHoveredColor=079D48
-gui.blockrenderer6343.ButtonEnabledColor=DDDDDD
+gui.blockrenderer6343.ButtonEnabledColor=FFFFFF
 gui.blockrenderer6343.ButtonDisabledColor=A0A0A0
