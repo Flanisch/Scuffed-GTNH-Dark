@@ -21,25 +21,25 @@ GT New Horizons: Dark theme for 2.5.1
 | AE2Stuff		  		  | 2/2 			   | 100%	  |				|
 | NEIAddons				  | 3/3 			   | 100%	  |				|
 | Blood Magic		  	  | 7/7 			   | 100%	  |				|
-| ArchitectureCraft		  | 0/4 			   | 0%	  	  |				|
+| ArchitectureCraft		  | 1/1 			   | 100%	  |				|
 | Avaritia				  | 0/5 			   | 0%	  	  |				|
 | AvaritiaAddons		  | 0/2 			   | 0%	  	  |				|
 | Backpack		  		  | 1/1 			   | 100% 	  |				|
-| BattleGear 2		      | 0/12 			   | 0%	  	  |				|
-| Baubles				  | 0/1 			   | 0%	  	  |				|
+| BattleGear 2		      | 2/2 			   | 100%	  |	There are an additional 10 textures, but they are super rarely used. Not a priority atm.|
+| Baubles				  | 1/1 			   | 100%	  |				|
 | BeeBetterAtBees		  | 1/1 			   | 100%	  |				|
 | BetterP2P		  		  | 0/1 			   | 0%	  	  |				|
-| Botania		  		  | 4/5 			   | 80%	  |				|
+| Botania		  		  | 5/5 			   | 100%	  |				|
 | BetterQuesting		  | 1/1 			   | 100%	  |				|
-| Chisel				  | 0/8 			   | 0%	  	  |				|
+| Chisel				  | 8/8 			   | 100%	  |				|
 | IronChest				  | 6/6 			   | 100%	  |				|
-| MobsInfo				  | 0/2 			   | 0%	  	  |				|
+| MobsInfo				  | 2/2 			   | 100%	  |				|
 | TCNEIAdditions		  | 1/1 			   | 100%	  |				|
 | Thaumcraft 4		  	  | 15/15 			   | 100%	  |				|
 | structurelib			  | 1/1 			   | 100%	  |				|
 | AdventureBackpack		  | 3/3 			   | 100%	  |				|
 | AE2 Wireless ME Terminal| 3/3 			   | 100%	  |				|
-| Overall				  | 469/505 		   | 93%  	  |				|
+| Overall				  | 483/492 		   | 96%  	  |				|
 </details>
 
 ## Known issues

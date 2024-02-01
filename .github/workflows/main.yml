@@ -19,14 +19,8 @@ jobs:
             *.psd
             /*designHelp/*
             /*psd/*
-            /*assets/architecturecraft/*
             /*assets/avaritia/*
-            /*assets/avaritiaddons/*
-            /*assets/battlegear2/*
-            /*assets/baubles/*
             /*assets/betterp2p/*
-            /*assets/chisel/*
-            /*assets/mobsinfo/*
       - name: Generate Changelog
         id: changelog
         uses: requarks/changelog-action@v1.10.0
