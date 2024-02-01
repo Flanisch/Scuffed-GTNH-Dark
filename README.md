@@ -1,6 +1,9 @@
 # Scuffed-GTNH-Dark
 GT New Horizons: Dark theme for 2.5.1
-Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential. Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
+
+Disclaimer: The current state of this resource pack is in Alpha and doesn't cover all GUIs, but hopefully the most essential. 
+
+Feedback is very much encouraged, as well as texturing requests for the remaining mods. For that or anything else, you can find me on the GTNH-Discord @ Albi.
 
 ## Recommended Resource Packs
 This UI Resource Pack is developed by keeping compatibility with Unity and Zedarrian Technology in mind, which is why using the following resource packs is recommended:
