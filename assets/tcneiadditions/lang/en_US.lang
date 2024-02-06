@@ -1,15 +1,10 @@
-tcneiadditions.aspect_from_itemstack.title=§fAspect from ItemStack
-tcneiadditions.aspect_from_itemstack.still_load=§fStill loading... (%s/%s)
-tcneiadditions.aspect_combination.title=§fAspect Combination
-
-tcneiadditions.research.missing=§fYou haven't completed research required to craft this item
-tcneiadditions.research.researchName=§fResearch name
-tcneiadditions.research.researchName_rod=§fRod Research name
-tcneiadditions.research.researchName_cap=§fCap Research name
-tcneiadditions.research.prerequisites.parents=§fParent research
-tcneiadditions.research.prerequisites.parentsHidden=§fParent hidden research
-tcneiadditions.research.prerequisites.item=§fScan item
-tcneiadditions.research.prerequisites.entity=§fScan entity
-tcneiadditions.research.prerequisites.aspect=§fScan aspect
-tcneiadditions.research.prerequisites.kill=§fKill and Scan
-tcneiadditions.research.prerequisites.allresearched=§fYou have done all the required research
+tcneiadditions.gui.textColor=FFFFFF
+tcneiadditions.gui.instabilityColorOff=FFFFFF
+tcneiadditions.gui.instabilityColor0=80FF66
+tcneiadditions.gui.instabilityColor1=66CCFF
+tcneiadditions.gui.instabilityColor2=FF77FF
+tcneiadditions.gui.instabilityColor3=FFFF55
+tcneiadditions.gui.instabilityColor4=FFAA00
+tcneiadditions.gui.instabilityColor5=FF9999
+tcneiadditions.gui.researchNameColor=DDDDDD
+tcneiadditions.gui.loadingTextColor=00CC00
