@@ -1,25 +1,6 @@
 # GUI Text - Needed for other mods, that hardcode color
 gui.appliedenergistics2.Terminal=§fTerminal
 
-# Colors
-gui.appliedenergistics2.White=White
-gui.appliedenergistics2.Orange=Orange
-gui.appliedenergistics2.Magenta=Magenta
-gui.appliedenergistics2.LightBlue=Light Blue
-gui.appliedenergistics2.Yellow=White
-gui.appliedenergistics2.Lime=Lime
-gui.appliedenergistics2.Pink=Pink
-gui.appliedenergistics2.Gray=Light Gray
-gui.appliedenergistics2.LightGray=White
-gui.appliedenergistics2.Cyan=Cyan
-gui.appliedenergistics2.Purple=Purple
-gui.appliedenergistics2.Blue=Blue
-gui.appliedenergistics2.Brown=Brown
-gui.appliedenergistics2.Green=Lime
-gui.appliedenergistics2.Red=Red
-gui.appliedenergistics2.Black=Black
-gui.appliedenergistics2.Fluix=Fluix
-
 # GUI Colors - ARGB
 gui.color.appliedenergistics2.SearchboxFocused=6E000000
 gui.color.appliedenergistics2.SearchboxUnfocused=00000000
