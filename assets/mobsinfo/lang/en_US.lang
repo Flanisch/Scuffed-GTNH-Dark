@@ -10,7 +10,7 @@ mobsinfo.mobhandler.infernal_can=§6Can spawn infernal
 mobsinfo.mobhandler.infernal_always=Always spawns infernal
 mobsinfo.mobhandler.mod=§fMod: 
 mobsinfo.mobhandler.max_health=§fMax health: 
-mobsinfo.mobhandler.boss=BOSS
+mobsinfo.mobhandler.boss=§d§lBOSS
 mobsinfo.mobhandler.cannot_use_vial=§fCan't be in soul vial
 mobsinfo.mobhandler.chance=§fChance: %.2f%%
 mobsinfo.mobhandler.average_reminder=§f§oPlease remember that these are average drops.
@@ -19,7 +19,15 @@ mobsinfo.mobhandler.player_only=§fHard player-only
 mobsinfo.mobhandler.peaceful_allowed=§fAllowed in peaceful
 mobsinfo.mobhandler.locked=§fTo unlock more information,
 mobsinfo.mobhandler.locked_1=§fyou have to kill the mob!
+mobsinfo.mobhandler.spawns_everywhere=§fSpawns everywhere
+mobsinfo.mobhandler.spawns_in=§f§nSpawns in %d places...
+mobsinfo.mobhandler.spawns_not_in=§f§nSpawns everywhere but %d places...
 mobsinfo.mobhandler.unlocked=§6You have unlocked new mob information!
+
+mobsinfo.villagertradeshandler.name=§fName: 
+mobsinfo.villagertradeshandler.mod=§fMod: 
+mobsinfo.villagertradeshandler.chance=§fChance: %.2f%%
+mobsinfo.villagertradeshandler.real_chance=§fChance per level up: %.2f%%
 
 mobsinfo.mobhandlerinfernal.title=§fInfernal Mobs - Drop Table
 mobsinfo.mobhandlerinfernal.format=§fFormat:
